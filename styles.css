@@ -1,4 +1,19 @@
+.assign img{
+  width: 200px;
+  margin: 10px;
+  border: 2px solid midnightblue;
+}
+
+.assign{
+  width: 20%;
+  box-shadow: 8px 8px Black;
+  border-radius: 20px;
+}
+
 body{
   background-color: lime;
   font-family: Arial;
+}
+h1{
+  width: 100%;
 }
